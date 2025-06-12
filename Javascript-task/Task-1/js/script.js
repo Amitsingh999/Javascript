@@ -7,5 +7,7 @@ for (let i = 16; i <= 50; i++) {
         console.log("Hex");
     } else {
         console.log(i);
-    }
+    }    
 }
+
+
